@@ -79,7 +79,3 @@ PermanentRedirect: The bucket you are attempting to access must be addressed usi
 * Document From Amazon
   * [Security Credentials](https://console.aws.amazon.com/iam/home?#security_credential)
   * [AWS JavaScript SDK - S3 Client](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#putObject-property)
-
-## License
-
-* MIT: [http://ryanwu.mit-license.org](http://ryanwu.mit-license.org).
